@@ -1,0 +1,6 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20.5 8L4 16L20.5 24L37 16L20.5 8Z" fill="#3B82F6"/>
+  <path d="M4 24L20.5 32L37 24" stroke="#3B82F6" stroke-width="2"/>
+  <path d="M4 16L20.5 24L37 16" stroke="#3B82F6" stroke-width="2"/>
+  <text x="45" y="24" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2937">tavily</text>
+</svg> 
